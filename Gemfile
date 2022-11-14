@@ -13,7 +13,7 @@ gem "sqlite3", "~> 1.4"
 gem "puma", "~> 5.0"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
-# gem "jbuilder"
+# gem "jbuilders"
 
 gem 'rack-cors'
 
